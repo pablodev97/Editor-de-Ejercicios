@@ -1,0 +1,7 @@
+Executable : C:\Users\PcCom\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\PcCom\Documents\ESNE4\Middleware\ExerciseEditorTool\project\android-studio\app\.cxx\cmake\debug\x86
+Controller_JNI
+jvmArgs : 
+

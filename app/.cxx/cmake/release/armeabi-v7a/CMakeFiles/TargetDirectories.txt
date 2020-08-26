@@ -1,0 +1,3 @@
+C:/Users/PcCom/Documents/ESNE4/Middleware/ExerciseEditorTool/project/android-studio/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/Controller_JNI.dir
+C:/Users/PcCom/Documents/ESNE4/Middleware/ExerciseEditorTool/project/android-studio/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/PcCom/Documents/ESNE4/Middleware/ExerciseEditorTool/project/android-studio/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_holder_adapter"
+    android:padding="10dp"
+    android:layout_margin="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:background="@color/colorAccent"
+        android:id="@+id/linearlayout">
+
+        <TextView
+            android:id="@+id/adapter_name_exercise"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Name: "
+            android:padding="5dp"
+            android:background="@color/colorPrimary"/>
+
+        <TextView
+            android:id="@+id/tv_exercise_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/tv_url_video_exercise"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="url vide0: "
+            android:textSize="13sp"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/tv_muscle_exercise"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="musculo:"
+            android:textSize="13sp"
+            android:textColor="@color/black"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_holder_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/delete_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delete"/>
+
+        <Button
+            android:id="@+id/edit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,53 @@
+{
+  "stringTable": {
+    "0": "C:/Users/PcCom/Documents/ESNE4/Middleware/ExerciseEditorTool/project/android-studio/app/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android23 --gcc-toolchain=C:/Users/PcCom/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/PcCom/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DController_JNI_EXPORTS -IC:/Users/PcCom/Documents/ESNE4/Middleware/ExerciseEditorTool/project/android-studio/app/src/main/cpp/src/main/cpp/nlhomann -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\PcCom\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\PcCom\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\PcCom\\Documents\\ESNE4\\Middleware\\ExerciseEditorTool\\project\\android-studio\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\PcCom\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\PcCom\\Documents\\ESNE4\\Middleware\\ExerciseEditorTool\\project\\android-studio\\app\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\PcCom\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\PcCom\\Documents\\ESNE4\\Middleware\\ExerciseEditorTool\\project\\android-studio\\app\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Controller_JNI-Release-arm64-v8a": {
+      "buildCommand": "C:\\Users\\PcCom\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\PcCom\\Documents\\ESNE4\\Middleware\\ExerciseEditorTool\\project\\android-studio\\app\\.cxx\\cmake\\release\\arm64-v8a\" Controller_JNI",
+      "buildType": "release",
+      "toolchain": "2839732811",
+      "abi": "arm64-v8a",
+      "artifactName": "Controller_JNI",
+      "files": [
+        {
+          "src": "C:\\Users\\PcCom\\Documents\\ESNE4\\Middleware\\ExerciseEditorTool\\project\\android-studio\\app\\src\\main\\cpp\\Controller_JNI.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\PcCom\\Documents\\ESNE4\\Middleware\\ExerciseEditorTool\\project\\android-studio\\app\\src\\main\\cpp\\Exercise.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\PcCom\\Documents\\ESNE4\\Middleware\\ExerciseEditorTool\\project\\android-studio\\app\\src\\main\\cpp\\Exercise_List.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\PcCom\\Documents\\ESNE4\\Middleware\\ExerciseEditorTool\\project\\android-studio\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libController_JNI.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "2839732811": {
+      "cppCompilerExecutable": "C:\\Users\\PcCom\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

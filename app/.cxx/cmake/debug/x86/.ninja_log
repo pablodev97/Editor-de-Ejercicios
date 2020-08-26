@@ -1,0 +1,7 @@
+# ninja log v5
+7	1695	613250732	CMakeFiles/Controller_JNI.dir/Exercise.cpp.o	58b2a7e489d183ec
+1	1984	613250732	CMakeFiles/Controller_JNI.dir/Controller_JNI.cpp.o	41e516534329ca5a
+5	3015	613250733	CMakeFiles/Controller_JNI.dir/Exercise_List.cpp.o	8a9fa8e86a54f257
+3015	3174	613250733	C:/Users/PcCom/Documents/ESNE4/Middleware/ExerciseEditorTool/project/android-studio/app/build/intermediates/cmake/debug/obj/x86/libController_JNI.so	9366eca190d5f897
+3	3291	613268698	CMakeFiles/Controller_JNI.dir/Exercise_List.cpp.o	8a9fa8e86a54f257
+3291	3594	613268699	C:/Users/PcCom/Documents/ESNE4/Middleware/ExerciseEditorTool/project/android-studio/app/build/intermediates/cmake/debug/obj/x86/libController_JNI.so	9366eca190d5f897
